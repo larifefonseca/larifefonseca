@@ -4,7 +4,7 @@
 ## I'm Larissa Fernanda Espindola Fonseca :smile: </h1>
 
 
-### <h align=""> I am a Software Quality Analysis and my dream is to see the world! I hold a degree in Business Administration and my main goal in life is geographic freedom, and to achieve it, I recently did a QA Bootcamp at TripleTen, from which I graduated and i learned how to ensure software quality. The subjects covered in the course are efficient, broad and practical and completely focused on the day-to-day work routine of a QA. The following were addressed:
+### <h align=""> I am a Jr Software Quality Analyst and my dream is to see the world! I hold a degree in Business Administration and my main goal in life is geographic freedom, and to achieve it, I recently did a QA Bootcamp at TripleTen, from which I graduated and i learned how to ensure software quality. The subjects covered in the course are efficient, broad and practical and completely focused on the day-to-day work routine of a QA. The following were addressed:
 
 :rocket:
 ### - Test documentation

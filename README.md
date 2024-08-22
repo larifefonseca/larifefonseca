@@ -1,27 +1,27 @@
-##
+###
 <h1 align="center">Hi 👋,
 
 ## I'm Larissa Fernanda Espindola Fonseca :smile: </h1>
-<h5 align=""> </h5>
 
-<h6 align=""> I am a Software Quality Analysis and my dream is to see the world! I hold a degree in Business Administration and my main goal in life is geographic freedom, and to achieve it, I recently did a QA Bootcamp at TripleTen, from which I graduated and i learned how to ensure software quality. The subjects covered in the course are efficient, broad and practical and completely focused on the day-to-day work routine of a QA. The following were addressed: <h/6>
+
+### <h align=""> I am a Software Quality Analysis and my dream is to see the world! I hold a degree in Business Administration and my main goal in life is geographic freedom, and to achieve it, I recently did a QA Bootcamp at TripleTen, from which I graduated and i learned how to ensure software quality. The subjects covered in the course are efficient, broad and practical and completely focused on the day-to-day work routine of a QA. The following were addressed:
 
 :rocket:
-**- Test documentation**
-**- Requirements analysis**
-**- Test checklist** 
-**- Test case** 
-**- WEB interface tests and API Testing - (front and back-end)**
+### - Test documentation
+### - Requirements analysis
+### - Test checklist 
+### - Test case
+### - WEB interface tests and API Testing - (front and back-end)
 
-💡 **Knowledge of: HTML structure, JSON format, REST, SQL database** 
+### 💡 Knowledge of: HTML structure, JSON format, REST, SQL database
 
-**Tools: draw.io, Figma, Swagger, Jira, Postman** :rocket:
+### **Tools: draw.io, Figma, Swagger, Jira, Postman** :rocket:
 
-<h6 align=""> In parallel to manual testing, I am dedicating myself to learning automated testing. Now I find myself in a career transition and I'm looking for an opportunity as a junior QA to start on this new journey. **I have a lot of experience with customer service as I have worked in this area for 12 years. I have advanced English and my strong point is definitely communication**. I know how to work in a team and I am very proactive. I am very excited and focused on learning, adding and applying my knowledge to the team that gives me this opportunity! .</h>
+### <h align=""> In parallel to manual testing, I am dedicating myself to learning automated testing. Now I find myself in a career transition and I'm looking for an opportunity as a junior QA to start on this new journey. **I have a lot of experience with customer service as I have worked in this area for 12 years. I have advanced English and my strong point is definitely communication**. I know how to work in a team and I am very proactive. I am very excited and focused on learning, adding and applying my knowledge to the team that gives me this opportunity! .</h>
 
-- 💬 Ask me about **Software tests**
+#### - 💬 Ask me about **Software tests**
 
-- 📫 How to reach me **larissaespindola22@hotmail.com**
+#### - 📫 How to reach me **larissaespindola22@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
